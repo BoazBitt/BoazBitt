@@ -28,6 +28,5 @@ Hello! My name is Boaz Bitton, and I am a software engineer hailing from Sami Sh
 
 ![GitProfile-Graph](https://github-readme-activity-graph.cyclic.app/graph?username=boazbitt&theme=high-contrast)
 
-- This Profile Created By <a href="https://profilegit.netlify.app/">GitProfile</a>
 ![snake gif](https://github.com/BoazBitt/BoazBitt/blob/output/github-contribution-grid-snake.gif)
 
