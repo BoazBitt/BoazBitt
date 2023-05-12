@@ -3,5 +3,5 @@
 
 ## Full Stack Developer
 
-![Snake animation](BoazBitt)
+![snake gif](https://github.com/YOUR_USERNAME/BoazBitt/blob/output/github-contribution-grid-snake.gif)
 
