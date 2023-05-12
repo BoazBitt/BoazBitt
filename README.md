@@ -6,7 +6,7 @@
 Hello! My name is Boaz Bitton, and I am a software engineer hailing from Sami Shamoon College of Engineering. With a strong foundation in full-stack development, I strive to create innovative and efficient solutions. Coding is not just a profession for me; it is my true passion. I enjoy diving into complex problems, writing clean and maintainable code, and constantly learning and improving my skills
 
 * 🌍 I'm actually from Israel
-* 🖥️ See my portfolio at [Boaz Bitton](www.boazbitton.com)
+<!--  * 🖥️ See my portfolio at [Boaz Bitton](www.boazbitton.com) -->
 * ✉️ You can contact me at [Boaz2119@gmail.com](mailto:Boaz2119@gmail.com)
 
 * 🧠 I'm learning Unity
