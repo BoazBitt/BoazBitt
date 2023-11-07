@@ -21,8 +21,3 @@ Hello! My name is Boaz Bitton, and I am a software engineer hailing from Sami Sh
 ### Find Me Also Here
 
 <p align="left"><a href=https://www.github.com/boazbitt target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/github.svg width="45px" height="45px" /></a><a href=https://www.facebook.com/Boaz2119 target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/facebook.svg width="45px" height="45px" /></a><a href=https://www.linkedin.com/in/boaz-bitton target="_blank" rel="noreferrer"><img src=https://raw.githubusercontent.com/RoniJackVituli/gitprofile/main/src/helpers/icons/socials/linkedin.svg width="45px" height="45px" /></a></p>
-
-
-
-![snake gif](https://github.com/BoazBitt/BoazBitt/blob/output/github-contribution-grid-snake.gif)
-
